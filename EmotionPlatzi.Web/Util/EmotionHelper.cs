@@ -7,6 +7,7 @@ using System.Collections.ObjectModel;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Threading.Tasks;
 using System.Web;
 
 namespace EmotionPlatzi.Web.Util
@@ -20,11 +21,12 @@ namespace EmotionPlatzi.Web.Util
 			emoClient = new EmotionServiceClient(key);
 		}
 
-		public async void DetectAndExtractFacesAsync(Stream imageStream)
+		public async Task<EmoPicture> DetectAndExtractFacesAsync(Stream imageStream)
 		{
 			Emotion[] emotions = await emoClient.RecognizeAsync(imageStream);
 			var emoPicture = new EmoPicture();
 			emoPicture.Faces = ExtractFaces(emotions, emoPicture);
+			return emoPicture;
 		}
 
 		private ObservableCollection<EmoFace> ExtractFaces(Emotion[] emotions, EmoPicture emoPicture)
