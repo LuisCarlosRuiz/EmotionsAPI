@@ -1,0 +1,136 @@
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\ApplicationInsights.config
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\csc.exe
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\vbc.exe
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.dll.config
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.pdb
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Web.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Newtonsoft.Json.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Helpers.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Mvc.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Razor.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Web.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Razor.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Helpers.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Mvc.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Newtonsoft.Json.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csprojResolveAssemblyReference.cache
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.pdb
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ProjectOxford.Common.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Extensions.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Primitives.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csproj.App.config
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.xml
+C:\Users\juanr\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.SqlServer.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\ApplicationInsights.config
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\csc.exe
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\System.Collections.Immutable.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\vbc.exe
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\VBCSCompiler.exe
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\VBCSCompiler.exe.config
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.dll.config
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.pdb
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.SqlServer.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Agent.Intercept.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.DependencyCollector.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Web.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.WindowsServer.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ApplicationInsights.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ProjectOxford.Common.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ProjectOxford.Emotion.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Newtonsoft.Json.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Extensions.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Formatting.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Primitives.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Helpers.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.WebHost.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Mvc.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Razor.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Deployment.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Razor.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.SqlServer.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.DependencyCollector.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Web.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.WindowsServer.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ApplicationInsights.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\Newtonsoft.Json.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Extensions.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Primitives.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Razor.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Deployment.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Razor.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Helpers.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Mvc.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Formatting.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.WebHost.xml
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csproj.App.config
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csproj.CoreCompileInputs.cache
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csproj.CopyComplete
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.dll
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.pdb
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.Migrations.FirstUpdateOnAzure.resources
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csproj.GenerateResource.cache
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.Migrations.AddHomeToModel.resources
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.Migrations.SomeFieldsInHomeAreChanged.resources
+F:\PLATZI\ASP.NET PROFESIONAL\MATERIALES\asp-net-master\Código del proyecyo\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csprojAssemblyReference.cache

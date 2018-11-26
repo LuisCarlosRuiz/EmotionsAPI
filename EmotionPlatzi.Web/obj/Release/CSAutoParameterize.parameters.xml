@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EmotionPlatziWebContext-Web.config Connection String" description="EmotionPlatziWebContext Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=EmotionPlatziWebContext-20160413170350; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|EmotionPlatziWebContext-20160413170350.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\PLATZI\\ASP\.NET\ PROFESIONAL\\MATERIALES\\asp-net-master\\Código\ del\ proyecyo\\EmotionPlatzi\\EmotionPlatzi\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmotionPlatziWebContext']/@connectionString" />
+  </parameter>
+  <parameter name="EmotionAzureDB-Web.config Connection String" description="EmotionAzureDB Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Server=tcp:mocazure.database.windows.net,1433;Initial Catalog=EmotionDB;Persist Security Info=False;User ID=luko;Password=elebadoala85-;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\PLATZI\\ASP\.NET\ PROFESIONAL\\MATERIALES\\asp-net-master\\Código\ del\ proyecyo\\EmotionPlatzi\\EmotionPlatzi\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmotionAzureDB']/@connectionString" />
+  </parameter>
+</parameters>
